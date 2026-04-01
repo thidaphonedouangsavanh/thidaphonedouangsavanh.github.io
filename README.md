@@ -11,17 +11,18 @@ Personal website
 
 # Education
 
-  * [cite_start]Bachelor of Business Administration – International Business Management - Payap University, Thailand [cite: 8]
-  * [cite_start]Diploma of Human Resources Management - TAFE Sydney, Australia [cite: 9]
-  * [cite_start]High School Diploma - Scotthachit Secondary School, Vientiane, Laos [cite: 10]
+  * Bachelor of Business Administration – International Business Management - Payap University, Thailand
+  * Diploma of Human Resources Management - TAFE Sydney, Australia
+  * High School Diploma - Scotthachit Secondary School, Vientiane, Laos
 
 # Experience
 
-  * [cite_start]Waitress / All-Rounder – Common Ground Cafe, Australia [cite: 12]
-  * [cite_start]Hostess / All-Rounder – Thai Restaurant, Australia [cite: 18]
-  * [cite_start]Receptionist – Wedding Convention, Vientiane, Laos [cite: 24]
-  * [cite_start]Volunteer All-Rounder – Hong Kai Keo, Vientiane, Laos [cite: 29]
-  * Owner & Operator – Inthada Luang Prabang Riverside, Laos
+  * Waitress / All-Rounder – Common Ground Cafe, Australia
+  * Hostess / All-Rounder – Thai Restaurant, Australia
+  * Receptionist – Wedding Convention, Vientiane, Laos
+  * Volunteer All-Rounder – Hong Kai Keo, Vientiane, Laos
+  * Operator – Inthada Luang Prabang Riverside, Laos
+  * Operator – Inthada Mae Kham Pong, Chiang Mai, Thailand
 
 # Interests
 
@@ -33,12 +34,12 @@ Personal website
 
 # Project experience with Languages
 
-  * [cite_start]**Human:** Lao (Native), Thai (Fluent), English (Fluent) [cite: 44]
-  * [cite_start]**Management & Tech:** Customer Service Excellence, Hospitality Operations Management, Cross-Cultural Communication, Administrative Organization, Front Desk Systems [cite: 35, 36, 25]
-  * [cite_start]**Soft Skills:** Problem Solving, Time Management, Team Collaboration, Adaptability [cite: 37, 38, 40, 41]
+  * **Human:** Lao (Native), Thai (Fluent), English (Fluent)
+  * **Management & Tech:** Customer Service Excellence, Hospitality Operations Management, Cross-Cultural Communication, Administrative Organization, Front Desk Systems 
+  * **Soft Skills:** Problem Solving, Time Management, Team Collaboration, Adaptability 
 
 # Contact Info
 
-  * [cite_start]**Email:** [thidaphone.douangsavanh@gmail.com](mailto:thidaphone.douangsavanh@gmail.com) [cite: 2]
-  * [cite_start]**Phone:** +66 6 4617 4766 [cite: 2]
-  * **Location:** Chiang Mai, Thailand [cite: 2]
+  * **Email:** [thidaphone.douangsavanh@gmail.com](mailto:thidaphone.douangsavanh@gmail.com) 
+  * **Phone:** +66 6 4617 4766 
+  * **Location:** Chiang Mai, Thailand 
