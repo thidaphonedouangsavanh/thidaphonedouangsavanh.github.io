@@ -3,9 +3,9 @@ Personal website
 
 # *Thidaphone Douangsavanh*
 
-> *Hospitality & Business Professional*
-> Payap University, International College
-> Amphur Muang, Chiang Mai 50000, Thailand 
+> _Business Professional_<br />
+> Payap University, International College<br />
+> Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 > Motivated Year 4 International Business Management student and hospitality entrepreneur with extensive experience in customer service operations and team collaboration. Proven ability to manage high-pressure environments, maintain rigorous service standards, and oversee small-scale hospitality ventures. Specialist in cross-cultural communication and operational problem-solving within the Southeast Asian and Australian markets.
 
