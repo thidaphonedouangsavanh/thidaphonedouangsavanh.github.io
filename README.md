@@ -1,10 +1,6 @@
 # thidaphonedouangsavanh.github.io
 Personal website
 
-Based on your current resume and professional background, here is your information restructured to match the format of Robert P. Batzinger’s profile.
-
------
-
 # *Thidaphone Douangsavanh*
 
 > *Hospitality & Business Professional*
