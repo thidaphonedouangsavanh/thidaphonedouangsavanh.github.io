@@ -1,13 +1,17 @@
 # thidaphonedouangsavanh.github.io
 Personal website
 
+Based on your current resume and professional background, here is your information restructured to match the format of Robert P. Batzinger’s profile.
+
+-----
+
 # *Thidaphone Douangsavanh*
 
-> *Hospitality & Business Professional*\<br /\>
-> Payap University, International College\<br /\>
-> [cite_start]Amphur Muang, Chiang Mai 50000, Thailand [cite: 2, 8]\<br /\>
+> *Hospitality & Business Professional*
+> Payap University, International College
+> Amphur Muang, Chiang Mai 50000, Thailand 
 
-> [cite_start]Motivated Year 4 International Business Management student and hospitality entrepreneur with extensive experience in customer service operations and team collaboration[cite: 4]. [cite_start]Proven ability to manage high-pressure environments, maintain rigorous service standards, and oversee small-scale hospitality ventures[cite: 5]. [cite_start]Specialist in cross-cultural communication and operational problem-solving within the Southeast Asian and Australian markets[cite: 6].
+> Motivated Year 4 International Business Management student and hospitality entrepreneur with extensive experience in customer service operations and team collaboration. Proven ability to manage high-pressure environments, maintain rigorous service standards, and oversee small-scale hospitality ventures. Specialist in cross-cultural communication and operational problem-solving within the Southeast Asian and Australian markets.
 
 # Education
 
@@ -41,4 +45,4 @@ Personal website
 
   * [cite_start]**Email:** [thidaphone.douangsavanh@gmail.com](mailto:thidaphone.douangsavanh@gmail.com) [cite: 2]
   * [cite_start]**Phone:** +66 6 4617 4766 [cite: 2]
-  * [cite_start]**Location:** Chiang Mai, Thailand [cite: 2]
+  * **Location:** Chiang Mai, Thailand [cite: 2]
