@@ -11,9 +11,9 @@ Personal website
 
 # Education
 
-  * Bachelor of Business Administration – International Business Management - Payap University, Thailand
-  * Diploma of Human Resources Management - TAFE Sydney, Australia
-  * High School Diploma - Scotthachit Secondary School, Vientiane, Laos
+* Bachelor of Business Administration – International Business Management - Payap University, Thailand
+* Diploma of Human Resources Management - TAFE Sydney, Australia
+* High School Diploma - Scotthachit Secondary School, Vientiane, Laos
 
 # Experience
 
